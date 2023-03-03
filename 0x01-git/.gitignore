@@ -1,1 +1,1 @@
-git config remote.origin.receivepack /bin/false
+git remote set-url --push origin no_push
